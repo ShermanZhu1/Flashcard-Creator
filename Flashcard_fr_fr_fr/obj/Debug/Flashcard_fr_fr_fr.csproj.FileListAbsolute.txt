@@ -1,0 +1,10 @@
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\bin\Debug\Flashcard_fr_fr_fr.exe.config
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\bin\Debug\Flashcard_fr_fr_fr.exe
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\bin\Debug\Flashcard_fr_fr_fr.pdb
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\obj\Debug\Flashcard_fr_fr_fr.csprojAssemblyReference.cache
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\obj\Debug\Flashcard_fr_fr_fr.Properties.Resources.resources
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\obj\Debug\Flashcard_fr_fr_fr.csproj.GenerateResource.cache
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\obj\Debug\Flashcard_fr_fr_fr.csproj.CoreCompileInputs.cache
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\obj\Debug\Flashcard_fr_fr_fr.exe
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\obj\Debug\Flashcard_fr_fr_fr.pdb
+C:\Users\whent\source\repos\Flashcard_fr_fr_fr\obj\Debug\Flashcard_fr_fr_fr.Form1.resources

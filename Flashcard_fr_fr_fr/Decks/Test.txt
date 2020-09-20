@@ -1,0 +1,6 @@
+﻿Q: What is 1 + 1?
+A: 1 + 1 = 2
+Q: What is 2 x 2?
+A: 2 x 2 = 4
+Q: What is the square root of 36?
+A: 36^(1/2) = 6
